@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Akhand Pratap Singh 
+
+Working as software developer experienced in full-stack web applications.
+
+I wrote coding tutorial blogs at algocodersmind.com 
+
+I have a repository that you are welcome to use.
+
+
 
 <!--
 **Akhand2021/Akhand2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

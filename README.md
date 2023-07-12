@@ -1,8 +1,12 @@
 ### Hi there 👋 I'm Akhand Pratap Singh 
+<hr>
+I'm Software developer experienced in full-stack web applications.
 
-Working as software developer experienced in full-stack web applications.
 
-I wrote coding tutorial blogs at algocodersmind.com 
+
+
+I wrote coding tutorial blogs at <a href="algocodersmind.com">algocodersmind.com</a> 
+
 
 I have a repository that you are welcome to use.
 

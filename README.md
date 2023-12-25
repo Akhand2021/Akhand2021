@@ -5,7 +5,8 @@ I'm Software developer experienced in full-stack web applications.
 
 
 
-I wrote coding tutorial blogs at <a href="algocodersmind.com">algocodersmind.com</a> 
+I wrote coding tutorial blogs at <a href="https://algocodersmind.com/">algocodersmind.com</a> 
+
 
 
 I have a repository that you are welcome to use.
